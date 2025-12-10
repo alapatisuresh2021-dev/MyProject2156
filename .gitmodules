@@ -1,0 +1,30 @@
+[submodule "transformers"]
+	path = transformers
+	url = https://github.com/huggingface/transformers
+[submodule "langchain"]
+	path = langchain
+	url = https://github.com/langchain-ai/langchain
+[submodule "llama_index"]
+	path = llama_index
+	url = https://github.com/jerryjliu/llama_index
+[submodule "crewAI"]
+	path = crewAI
+	url = https://github.com/crewAIInc/crewAI
+[submodule "unsloth"]
+	path = unsloth
+	url = https://github.com/unsloth-ai/unsloth
+[submodule "MetaGPT"]
+	path = MetaGPT
+	url = https://github.com/geekan/MetaGPT
+[submodule "vllm"]
+	path = vllm
+	url = https://github.com/vllm-project/vllm
+[submodule "ragflow"]
+	path = ragflow
+	url = https://github.com/emptymalei/ragflow
+[submodule "awesome-llm-apps"]
+	path = awesome-llm-apps
+	url = https://github.com/vwo/awesome-llm-apps
+[submodule "kotaemon"]
+	path = kotaemon
+	url = https://github.com/Cinnamon/kotaemon
